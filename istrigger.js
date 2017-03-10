@@ -10,7 +10,7 @@ $(document).on('click tap', '.someElementClass', function (e) {
 
 /*
 This snippet is part of the article published here:
-http://www.wpriders.com/snippets/jquery-determine…y-jquery-trigger/
+http://www.wpriders.com/snippets/jquery-determine-event-triggered-human-jquery-trigger/
 
 In case you want to work with us, please post your task here:
 www.wpriders.com/hire-us-ref
