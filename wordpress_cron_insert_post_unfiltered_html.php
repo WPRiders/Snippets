@@ -1,7 +1,7 @@
 <?php 
 
 $save_post = array(
-	'post_author'  => $the_awesome,
+	'post_author'  => $the_awesome_id,
 	'post_content' => $your_awesome_content,
 	'post_title'   => $your_awesome_title,
 	'post_status'  => 'publish',
