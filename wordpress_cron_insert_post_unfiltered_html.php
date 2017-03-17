@@ -30,7 +30,7 @@ $save_post = array(
  
 /*
 This snippet is part of the article published here:
-http://www.wpriders.com/snippets/wordpress-cron-s…red-html-content/
+http://www.wpriders.com/snippets/wordpress-cron-save-post-with-unfiltered-html-content/
 In case you want to work with us, please post your task here:
 www.wpriders.com/hire-us-ref
 */
