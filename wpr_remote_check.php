@@ -38,7 +38,7 @@ var_dump($remote_image);
 
 /*
 This snippet is part of the article published here:
-http://www.wpriders.com/uncategorized/php-remote-file-existence-check/
+http://www.wpriders.com/snippets/php-remote-file-existence/
 In case you want to work with us, please post your task here:
 www.wpriders.com/hire-us-ref
 */
